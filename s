@@ -7,3 +7,4 @@ https://basescan.org/find-similar-contracts?a=0x111116056aD60f0f4Fb52d60852F9acD
 
 сделай swagger + api на 8453 порту с возможностью получения всех simiar контрактов как в конкретной сети, так и в целом
 зайди сам через браузер и выяви нужные методы, проверь потом работу
+https://chat.z.ai/auth/verify_email?token=verify-5eddeaa76972e992bdbcc8792360a629&email=skripaskripa%40812.house&username=skripaskripa&language=en
